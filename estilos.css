@@ -89,3 +89,17 @@
     border: 1px outset rgb(18, 19, 18);
 
 }
+
+/*recuadros*/
+.tamañorecuadro{
+
+    width: 100%;
+
+}
+
+.margen{
+
+    margin: -5px;
+    padding: -5px;
+
+}
