@@ -1,0 +1,55 @@
+
+.fondox{
+
+    background-color:rgb(214, 232, 252)
+
+}
+/*colores de letra*/
+.letrablanca{
+
+    color: white;
+
+}
+.letraverde{
+
+    color: rgb(80, 146, 5);
+}
+.letralilac{
+
+    color:rgb(174, 110, 233)
+
+}
+.letralilac2{
+
+    color:rgb(97, 81, 233)
+
+}
+
+/*tamaño de letra*/
+.tamañoletra{
+
+    font-size: 20px;
+
+}
+
+/*bordes*/
+
+.bordenegro{
+
+    border: 5px outset rgb(18, 19, 18);
+
+}
+
+/*recuadros*/
+.tamañorecuadro{
+
+    width: 100%;
+
+}
+
+.margen{
+
+    margin: -5px;
+    padding: -5px;
+
+}
