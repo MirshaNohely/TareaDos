@@ -1,0 +1,91 @@
+.fondoverde{
+
+    background-color: aqua;
+
+}
+
+.fondorojo{
+
+    background-color: rgb(236, 91, 91);
+
+}
+
+.fondoazul{
+
+    background-color: rgb(58, 137, 189);
+
+}
+
+.fondovioleta{
+
+    background-color: rgb(173, 114, 230);
+}
+
+.fondoazul2{
+
+    background-color: rgb(85, 190, 238);
+
+}
+
+.fondoamarillo{
+
+    background-color: rgba(255, 240, 37, 0.945);
+
+}
+
+.fondoamarilloverdeclaro{
+
+    background-color:rgb(231, 231, 231);
+
+}
+
+.fondoverde2{
+
+    background-color:rgb(149, 212, 106);
+
+}
+
+/*colores de letra*/
+.letrablanca{
+
+    color: white;
+
+}
+
+/*tamaño de letra*/
+.tamañoletra{
+
+    font-size: 30px;
+
+}
+
+/*bordes*/
+.bordegris1{
+
+    border: 10px outset rgb(125, 126, 123)
+
+}
+
+.bordegris2{
+
+    border: 10px outset rgb(98, 99, 98)
+
+}
+
+.bordegris3{
+
+    border: 20px outset rgb(91, 92, 89);
+
+}
+
+.bordegris4{
+
+    border: 2px outset rgb(91, 92, 89);
+
+}
+
+.bordenegro{
+
+    border: 1px outset rgb(18, 19, 18);
+
+}
